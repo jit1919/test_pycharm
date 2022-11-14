@@ -11,6 +11,7 @@ def print_hi(name):
     print("First comment after git commit")
     print("Second comment after git commit")
     print("Third comment after git commit")
+    print("Fourth comment after creating multiple branches on github")
 
 
 # Press the green button in the gutter to run the script.
