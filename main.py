@@ -9,6 +9,8 @@ def print_hi(name):
     print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
     print("Breakpoint testing..")
     print("First comment after git commit")
+    print("Second comment after git commit")
+    print("Third comment after git commit")
 
 
 # Press the green button in the gutter to run the script.
