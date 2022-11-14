@@ -13,6 +13,7 @@ def print_hi(name):
     print("Third comment after git commit")
     print("Fourth comment after creating multiple branches on github")
     print("Fifth comment for testing complete pipeline from Dev to QA and QA to Prod")
+    print("Adding multiple branches in pycharm ide")
 
 
 # Press the green button in the gutter to run the script.
